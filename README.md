@@ -1,3 +1,4 @@
+[![Math Utility Project (CI included) | © 2026 by thanh.tâm](https://github.com/PhamThanhTam12/math-util-se2041/actions/workflows/ci-script.yml/badge.svg)](https://github.com/PhamThanhTam12/math-util-se2041/actions/workflows/ci-script.yml)
 # Welcome to Math Utility
 
 ### You will find in this repo the following stuff:
@@ -12,3 +13,4 @@
 #### Connect me via: pthanhtam692@gmail.com
 
 #### &#169; 2026 phạm.thanh.tam
+
